@@ -52,6 +52,7 @@ const config: Config = {
           position: 'left'
         },
         { to: "/blog", label: "Blog", position: "left" },
+        { to: "/docs", label: "About", position: "left" },
         { to: "/donate", label: "Donate", position: "left" },
         {
           to: "https://news.pelican.dev/",
